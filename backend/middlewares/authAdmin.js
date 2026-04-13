@@ -37,3 +37,4 @@ const authAdmin=async(req,res,next)=>{
 }
 
 export default authAdmin
+// minor update 2715
