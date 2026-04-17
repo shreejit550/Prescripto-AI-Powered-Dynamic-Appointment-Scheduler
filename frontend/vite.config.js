@@ -6,3 +6,5 @@ export default defineConfig({
   plugins: [react()],
   server:{port:5173}
 })
+
+// minor update 7624
