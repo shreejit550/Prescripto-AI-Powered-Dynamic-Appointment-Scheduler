@@ -21,3 +21,5 @@ const doctorModel= mongoose.models.doctor || mongoose.model('doctor',doctorSchem
 
 export default doctorModel
 // minor update 3724
+
+// minor update 8420
