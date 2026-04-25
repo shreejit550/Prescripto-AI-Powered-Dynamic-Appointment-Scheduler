@@ -38,3 +38,5 @@ const Footer = () => {
 }
 
 export default Footer
+
+// minor update 2302
