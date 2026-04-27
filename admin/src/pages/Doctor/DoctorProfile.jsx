@@ -94,3 +94,5 @@ const DoctorProfile = () => {
 }
 
 export default DoctorProfile
+
+// minor update 7771
