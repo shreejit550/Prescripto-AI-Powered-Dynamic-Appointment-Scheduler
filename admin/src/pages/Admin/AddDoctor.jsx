@@ -170,3 +170,5 @@ const AddDoctor = () => {
 }
 
 export default AddDoctor
+
+// minor update 8926
