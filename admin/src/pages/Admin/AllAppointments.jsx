@@ -67,3 +67,5 @@ const AllAppointments = () => {
 }
 
 export default AllAppointments
+
+// minor update 9954
