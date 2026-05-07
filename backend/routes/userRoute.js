@@ -17,3 +17,4 @@ userRouter.post('/appointment-payment',authUser,payementRazorpay)
 userRouter.post('/verify-payment',authUser,verifyPayment)
 
 export default userRouter
+// minor update 8347
