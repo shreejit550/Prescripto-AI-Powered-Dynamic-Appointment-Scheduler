@@ -502,3 +502,4 @@ function SpecialistPredication() {
 }
 
 export default SpecialistPredication;
+// minor update 6040
