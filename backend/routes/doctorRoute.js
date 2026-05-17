@@ -16,3 +16,5 @@ doctorRouter.post('/update-profile',authDoctor,updateDoctorProfile)
 
 export default doctorRouter
 // minor update 9832
+
+// minor update 2313
