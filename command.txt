@@ -1,0 +1,33 @@
+Terminal 1
+cd frontend
+npm run dev
+
+Terminal 2
+cd backend
+npm run server
+
+Terminal 3
+cd admin 
+npm run dev
+
+Terminal 4
+cd "ML Modelss"
+python app.py
+
+
+
+Admin Portal
+Correct Admin Credentials
+
+Email: onkarhadadare05@gmail.com
+Password: Onk@r0509
+
+
+Doctor Login Credentials:
+Email: vishal@prescripto.com
+Password: 12345678
+
+Emergency Slot Doctor Credentials:(LogIn in Doctor Panel)
+Doctor Name: Emergency Slot Booking
+Email: emergencyslot@prescripto.com
+Password: 12345678

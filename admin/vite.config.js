@@ -7,6 +7,15 @@ export default defineConfig({
   plugins: [react(),
     tailwindcss()
   ],
-  server:{port:5174},
+  server: {
+    port: 5174,
+    proxy: {
+      '/myapi': {
+        target: 'http://localhost:4001',
+        changeOrigin: true,
+        rewrite: (path) => path.replace(/^\/myapi/, ''),
+      },
+    },
+  },
   base: '/admin/' 
 })
